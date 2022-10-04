@@ -1,4 +1,15 @@
 {
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
-  "recommendations": ["angular.ng-template"]
+  "recommendations": [
+    "angular.ng-template",
+    "johnpapa.angular-essentials",
+    "PKief.material-icon-theme",
+    "formulahendry.auto-close-tag",
+    "PeterJausovec.vscode-docker",
+    "eamodio.gitlens",
+    "WallabyJs.quokka-vscode",
+    "rbbit.typescript-hero",
+    "DSKWRK.vscode-generate-getter-setter",
+    "esbenp.prettier-vscode"
+  ]
 }
